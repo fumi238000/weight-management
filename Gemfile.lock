@@ -218,6 +218,7 @@ DEPENDENCIES
   bootstrap (~> 4.4.1)
   byebug
   chart-js-rails
+  devise
   devise-bootstrap-views (~> 1.0)
   devise-i18n
   flatpickr
